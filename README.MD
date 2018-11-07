@@ -1,0 +1,1 @@
+The code of paper 'A Research on Clinical Assistant Diagnosis Using Deep Feature Learning for Chinese Electronic Medical Record'
